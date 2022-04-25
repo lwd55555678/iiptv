@@ -1,0 +1,11 @@
+﻿香港J2,http://50.7.218.42:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+香港无线新闻台,http://50.7.218.42:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
+香港无线财经台,http://50.7.218.42:8278/j5_twn/playlist.m3u8?tid=m3b7232941813&ct=18336&tsum=2652e4efd153feaf5e425047082469ea
+香港无线财经台(备份),http://50.7.218.42:8278/tvbcaijing_twn/playlist.m3u8?tid=mbc57c85dcc17&ct=18336&tsum=1423657d67e66f6bb156158f2dd60353
+香港RHK32,http://50.7.218.42:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
+星空卫视,http://50.7.218.42:8278/xingkong/playlist.m3u8?tid=m61d2d25a9adb&ct=18335&tsum=bc464e6fb89211029ad1b93ac62830aa
+ELEVEN体育一台,http://50.7.218.42:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
+ELEVEN体育1台,http://50.7.218.42:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+纬来体育,rtmp://59.124.75.138:1935/sat/tv721
+探索动力台,http://50.7.218.42:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+探索科学台,http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
